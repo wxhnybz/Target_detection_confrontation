@@ -4,5 +4,5 @@
 
 ***
 
-最近更新的部分学习内容 ~~大创项目的前端接口技术~~：[仓库链接地址的传送门](https://git.acwing.com/swift/kob)
+最近更新的部分学习内容 ~~大创项目的前端接口技术~~：[仓库地址传送门](https://github.com/wxhnybz/kob)
 
